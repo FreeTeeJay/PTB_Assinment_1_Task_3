@@ -25,3 +25,7 @@ this is the prossees that I took to get the code up and running:
  
 7.Environment size: The solution should be extended to work for boards/environments of different sizes. 
   This can be achieved by making the virtual size of the board configurable, up to a maximum of 1,000 x 1,000.
+  
+  To run the program you will need:
+  Docker (wiht RabbitMQ)
+  Python with pika, random, time, argparse and tkinter.
